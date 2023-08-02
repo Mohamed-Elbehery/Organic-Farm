@@ -27,7 +27,7 @@
 }
 
 header {
-  background-color: var(--green);
+  background-color: blue;
   padding: 1rem 0;
   user-select: none;
   position: fixed;
